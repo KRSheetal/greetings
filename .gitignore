@@ -1,6 +1,6 @@
 secret.txt
 scratch.txt #adding file name here let git to ignore this file
-
+topsecret.txt
 password.txt
 
 
