@@ -1,7 +1,7 @@
 secret.txt
 scratch.txt #adding file name here let git to ignore this file
-*.pyc
-__pychache__
+
+password.txt
 
 
 I want to ignore these files
