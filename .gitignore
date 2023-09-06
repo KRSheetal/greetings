@@ -1,4 +1,4 @@
-secrets.txt
+
 scratch.txt #adding file name here let git to ignore this file
 *.pyc
 __pychache__
