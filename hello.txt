@@ -2,3 +2,5 @@ hello
 bonjour
 hola
 hallo
+gutten tag
+Namaste
